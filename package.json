@@ -1,0 +1,16 @@
+{
+  "name": "rs-school-nodejs-file-manager",
+  "version": "1.0.0",
+  "description": "This repository is the part of file-manager-assignments https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/file-manager/assignment.md",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start:n": "node src/index.js --username=Anton-GLebov",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Glebov",
+  "license": "ISC"
+}
