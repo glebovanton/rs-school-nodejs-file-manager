@@ -1,0 +1,15 @@
+{
+  "name": "rs-school-nodejs-file-manager",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js -- --username=Anton_GLebov",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Glebov",
+  "license": "ISC"
+}
